@@ -13,7 +13,7 @@
 Materia: Desarrollo Móvil Integral. <br><br>
 Alumno: Mauricio Ramírez López <br><br>
 Matrícula: 200070 <br><br>
-Tarea 05: Primeros cambios a la aplicación con Flutter. <br><br>
+Tarea 05: Creación de una apliación de StatefulWidget con cambio de imagenes con un botón. <br><br>
 Descripción: La aplicación Flutter que has desarrollado es una aplicación interactiva y dinámica que utiliza StatefulWidget, un componente fundamental de Flutter que permite la creación de interfaces de usuario reactivas. La aplicación presenta una interfaz sencilla pero efectiva, permitiendo a los usuarios experimentar cambios en la pantalla al interactuar con un botón específico. Cada vez que el usuario toca el botón, la aplicación actualiza la visualización en pantalla, alternando entre diferentes imágenes y textos de forma circular. Esto ofrece una experiencia interactiva agradable para el usuario, permitiéndole explorar varios elementos de contenido de manera cómoda y eficiente. Este enfoque basado en StatefulWidget es especialmente útil para construir aplicaciones que requieren actualizaciones de interfaz en respuesta a acciones del usuario, proporcionando una interactividad dinámica y atractiva en la experiencia de uso. <br><br>
 Fecha entrega: 22 de septiembre del 2023
 </div>
